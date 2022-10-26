@@ -156,7 +156,13 @@ a{
     section {
         width: 120%;
         margin-left: -60px;
-      }
+    }
+    .article_left{
+        width: 36%;
+    }
+    .article_right{
+        width: 64%;
+    }
   }
 
 
