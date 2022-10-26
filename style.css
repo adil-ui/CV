@@ -156,6 +156,7 @@ a{
     section {
         width: 120%;
         margin-left: -60px;
+        box-shadow: none;
     }
     .article_left{
         width: 36%;
